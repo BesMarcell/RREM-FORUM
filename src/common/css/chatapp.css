@@ -1,0 +1,46 @@
+
+a {
+  text-decoration: none;
+}
+
+html,
+body,
+container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.btn-primary {
+  border: none;
+}
+
+.HelloMAN {
+  color: #34A853;
+  font-size: 0.7em;
+}
+
+.messageReply {
+  background: lightgrey;
+  color: black;
+}
+
+.messageReplyText {
+
+}
+
+.messageReplyTime {
+font-size: 0.7em;
+}
+
+.messageReplyUser {
+font-size: 0.9em;
+}
+
+.rightB {
+  text-align: right
+}
+
+.leftB {
+  text-align: left
+}
